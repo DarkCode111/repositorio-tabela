@@ -1,0 +1,15 @@
+body{
+    margin: 10;
+    padding: 0;
+    border: 5px double gold;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    margin: 10px 30px;
+    border: 2px solid green;
+    
+}
